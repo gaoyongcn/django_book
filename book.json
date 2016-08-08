@@ -1,6 +1,11 @@
 {
     "plugins": [
-        "advanced-emoji"
+        "advanced-emoji",
+        "catalog",
+        "codeblock-label",
+        "donate",
+        "emoji",
+        "highlightt"
     ],
     "pluginsConfig": {
         "advanced-emoji": {
